@@ -1,0 +1,15 @@
+C:\Users\Baran\source\repos\TestHackerRank\bin\Debug\net5.0\TestHackerRank.exe
+C:\Users\Baran\source\repos\TestHackerRank\bin\Debug\net5.0\TestHackerRank.deps.json
+C:\Users\Baran\source\repos\TestHackerRank\bin\Debug\net5.0\TestHackerRank.runtimeconfig.json
+C:\Users\Baran\source\repos\TestHackerRank\bin\Debug\net5.0\TestHackerRank.runtimeconfig.dev.json
+C:\Users\Baran\source\repos\TestHackerRank\bin\Debug\net5.0\TestHackerRank.dll
+C:\Users\Baran\source\repos\TestHackerRank\bin\Debug\net5.0\ref\TestHackerRank.dll
+C:\Users\Baran\source\repos\TestHackerRank\bin\Debug\net5.0\TestHackerRank.pdb
+C:\Users\Baran\source\repos\TestHackerRank\obj\Debug\net5.0\TestHackerRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baran\source\repos\TestHackerRank\obj\Debug\net5.0\TestHackerRank.AssemblyInfoInputs.cache
+C:\Users\Baran\source\repos\TestHackerRank\obj\Debug\net5.0\TestHackerRank.AssemblyInfo.cs
+C:\Users\Baran\source\repos\TestHackerRank\obj\Debug\net5.0\TestHackerRank.csproj.CoreCompileInputs.cache
+C:\Users\Baran\source\repos\TestHackerRank\obj\Debug\net5.0\TestHackerRank.dll
+C:\Users\Baran\source\repos\TestHackerRank\obj\Debug\net5.0\ref\TestHackerRank.dll
+C:\Users\Baran\source\repos\TestHackerRank\obj\Debug\net5.0\TestHackerRank.pdb
+C:\Users\Baran\source\repos\TestHackerRank\obj\Debug\net5.0\TestHackerRank.genruntimeconfig.cache
